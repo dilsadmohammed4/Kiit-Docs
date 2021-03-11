@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#20AA16</color>
+    <color name="userInput">#E8EBEC</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="hintText">#736F6F</color>
+    <color name="topHeadbar">#08940C</color>
+</resources>

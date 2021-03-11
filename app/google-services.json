@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663139767031",
+    "firebase_url": "https://kiit-docs.firebaseio.com",
+    "project_id": "kiit-docs",
+    "storage_bucket": "kiit-docs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663139767031:android:ab6754a2d8291942b3b9f2",
+        "android_client_info": {
+          "package_name": "com.example.kiitdocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663139767031-pg0o4bs3golhvm7gs0hnd8c1g34o5vcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ApLDC_el18itfEijD7T0tv4xk7CAhzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663139767031-pg0o4bs3golhvm7gs0hnd8c1g34o5vcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

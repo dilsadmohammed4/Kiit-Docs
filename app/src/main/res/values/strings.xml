@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KIIT DOCS</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">LOG IN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="create_signUp">Create an account?SignUp</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="welcome_to_kiit_docs">Welcome To KIIT DOCS</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="email_id">Email id</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="title_activity_main_docs">MainDocs</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="remember_me">Remember me</string>
+</resources>
